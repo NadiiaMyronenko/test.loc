@@ -1,7 +1,5 @@
 <?php
 
-
-
 $myStr = "iT is my str!!!!!";
 echo 'String: ' . $myStr . '<br><br>';
 
