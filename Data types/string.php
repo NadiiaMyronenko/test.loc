@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: nadiia
- * Date: 25.04.18
- * Time: 18:46
- */
+
 $myStr = "iT is my str!!!!!";
 echo 'String: ' . $myStr . '<br><br>';
 
